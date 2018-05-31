@@ -1,10 +1,10 @@
-#ZHP Documentation
-##Architecture
+# ZHP Documentation
+## Architecture
 The **[Architecture](https://github.com/Gryczka/ZHP/blob/master/Documentation/Architecture.md "ZHP Architecture")**
-##Requirements
+## Requirements
 Coming Soon
-###Use Case Diagram
+### Use Case Diagram
 Coming Soon
-##Technical Documentation
+## Technical Documentation
 Coming Soon
 
