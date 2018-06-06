@@ -1,0 +1,17 @@
+C:\Users\patgr\source\repos\Test\Test.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\patgr\source\repos\Test\Test.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\patgr\source\repos\Test\Test.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\patgr\source\repos\Test\Test.Tests\bin\Debug\netcoreapp2.0\Test.Tests.deps.json
+C:\Users\patgr\source\repos\Test\Test.Tests\bin\Debug\netcoreapp2.0\Test.Tests.runtimeconfig.json
+C:\Users\patgr\source\repos\Test\Test.Tests\bin\Debug\netcoreapp2.0\Test.Tests.runtimeconfig.dev.json
+C:\Users\patgr\source\repos\Test\Test.Tests\bin\Debug\netcoreapp2.0\Test.Tests.dll
+C:\Users\patgr\source\repos\Test\Test.Tests\bin\Debug\netcoreapp2.0\Test.Tests.pdb
+C:\Users\patgr\source\repos\Test\Test.Tests\bin\Debug\netcoreapp2.0\Test.dll
+C:\Users\patgr\source\repos\Test\Test.Tests\bin\Debug\netcoreapp2.0\Test.pdb
+C:\Users\patgr\source\repos\Test\Test.Tests\obj\Debug\netcoreapp2.0\Test.Tests.csprojResolveAssemblyReference.cache
+C:\Users\patgr\source\repos\Test\Test.Tests\obj\Debug\netcoreapp2.0\Test.Tests.csproj.CoreCompileInputs.cache
+C:\Users\patgr\source\repos\Test\Test.Tests\obj\Debug\netcoreapp2.0\Test.Tests.AssemblyInfoInputs.cache
+C:\Users\patgr\source\repos\Test\Test.Tests\obj\Debug\netcoreapp2.0\Test.Tests.AssemblyInfo.cs
+C:\Users\patgr\source\repos\Test\Test.Tests\obj\Debug\netcoreapp2.0\Test.Tests.csproj.CopyComplete
+C:\Users\patgr\source\repos\Test\Test.Tests\obj\Debug\netcoreapp2.0\Test.Tests.dll
+C:\Users\patgr\source\repos\Test\Test.Tests\obj\Debug\netcoreapp2.0\Test.Tests.pdb
