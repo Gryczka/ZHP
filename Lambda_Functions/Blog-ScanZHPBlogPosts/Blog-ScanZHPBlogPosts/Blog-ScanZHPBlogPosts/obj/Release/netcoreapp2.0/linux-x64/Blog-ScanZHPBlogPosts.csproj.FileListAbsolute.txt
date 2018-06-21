@@ -1,0 +1,10 @@
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\bin\Release\netcoreapp2.0\linux-x64\Blog-ScanZHPBlogPosts.deps.json
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\bin\Release\netcoreapp2.0\linux-x64\Blog-ScanZHPBlogPosts.runtimeconfig.json
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\bin\Release\netcoreapp2.0\linux-x64\Blog-ScanZHPBlogPosts.runtimeconfig.dev.json
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\bin\Release\netcoreapp2.0\linux-x64\Blog-ScanZHPBlogPosts.dll
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\bin\Release\netcoreapp2.0\linux-x64\Blog-ScanZHPBlogPosts.pdb
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\obj\Release\netcoreapp2.0\linux-x64\Blog-ScanZHPBlogPosts.csproj.CoreCompileInputs.cache
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\obj\Release\netcoreapp2.0\linux-x64\Blog-ScanZHPBlogPosts.AssemblyInfoInputs.cache
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\obj\Release\netcoreapp2.0\linux-x64\Blog-ScanZHPBlogPosts.AssemblyInfo.cs
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\obj\Release\netcoreapp2.0\linux-x64\Blog-ScanZHPBlogPosts.dll
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\obj\Release\netcoreapp2.0\linux-x64\Blog-ScanZHPBlogPosts.pdb

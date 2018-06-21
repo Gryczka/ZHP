@@ -1,0 +1,17 @@
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\bin\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.Tests.deps.json
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\bin\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.Tests.runtimeconfig.json
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\bin\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.Tests.runtimeconfig.dev.json
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\bin\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.Tests.dll
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\bin\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.Tests.pdb
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\bin\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.dll
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\bin\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.pdb
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\obj\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.Tests.csprojResolveAssemblyReference.cache
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\obj\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.Tests.csproj.CoreCompileInputs.cache
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\obj\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.Tests.AssemblyInfoInputs.cache
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\obj\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.Tests.AssemblyInfo.cs
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\obj\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.Tests.csproj.CopyComplete
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\obj\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.Tests.dll
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts\Blog-ScanZHPBlogPosts.Tests\obj\Debug\netcoreapp2.0\Blog-ScanZHPBlogPosts.Tests.pdb
