@@ -1,0 +1,8 @@
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\bin\Debug\netcoreapp2.0\Blog-AddZHPBlogPost.deps.json
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\bin\Debug\netcoreapp2.0\Blog-AddZHPBlogPost.runtimeconfig.json
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\bin\Debug\netcoreapp2.0\Blog-AddZHPBlogPost.runtimeconfig.dev.json
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\bin\Debug\netcoreapp2.0\Blog-AddZHPBlogPost.dll
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\obj\Debug\netcoreapp2.0\Blog-AddZHPBlogPost.csproj.CoreCompileInputs.cache
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\obj\Debug\netcoreapp2.0\Blog-AddZHPBlogPost.AssemblyInfoInputs.cache
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\obj\Debug\netcoreapp2.0\Blog-AddZHPBlogPost.AssemblyInfo.cs
+C:\Users\patgr\Documents\ZHP\Lambda_Functions\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\Blog-AddZHPBlogPost\obj\Debug\netcoreapp2.0\Blog-AddZHPBlogPost.csprojResolveAssemblyReference.cache
