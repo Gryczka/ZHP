@@ -3378,23 +3378,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\patgr\\.nuget\\packages\\": {},
+    "C:\\Users\\Gryczka\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\patgr\\Documents\\ZHP\\Lambda_Functions\\Blog-AddZHPBlogPost\\Blog-AddZHPBlogPost\\Blog-AddZHPBlogPost\\Blog-AddZHPBlogPost.csproj",
+      "projectUniqueName": "C:\\Users\\Gryczka\\Documents\\ZHP\\Lambda_Functions\\Blog-AddZHPBlogPost\\Blog-AddZHPBlogPost\\Blog-AddZHPBlogPost.csproj",
       "projectName": "Blog-AddZHPBlogPost",
-      "projectPath": "C:\\Users\\patgr\\Documents\\ZHP\\Lambda_Functions\\Blog-AddZHPBlogPost\\Blog-AddZHPBlogPost\\Blog-AddZHPBlogPost\\Blog-AddZHPBlogPost.csproj",
-      "packagesPath": "C:\\Users\\patgr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\patgr\\Documents\\ZHP\\Lambda_Functions\\Blog-AddZHPBlogPost\\Blog-AddZHPBlogPost\\Blog-AddZHPBlogPost\\obj\\",
+      "projectPath": "C:\\Users\\Gryczka\\Documents\\ZHP\\Lambda_Functions\\Blog-AddZHPBlogPost\\Blog-AddZHPBlogPost\\Blog-AddZHPBlogPost.csproj",
+      "packagesPath": "C:\\Users\\Gryczka\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Gryczka\\Documents\\ZHP\\Lambda_Functions\\Blog-AddZHPBlogPost\\Blog-AddZHPBlogPost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\patgr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Gryczka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

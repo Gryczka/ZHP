@@ -16,7 +16,10 @@ namespace Blog_AddZHPBlogPost
 {
     public class Function
     {
-
+        private static AmazonDynamoDBClient client = new AmazonDynamoDBClient();
+        private static string tableName = "zhp-blog_posts";
+        private static string blogPrefix = "zhp-";
+        private static string date = DateTime.Today.ToString("yyyymmdd");
         /// <summary>
         /// A function to Add a ZHP Blog Post
         /// </summary>
@@ -24,7 +27,7 @@ namespace Blog_AddZHPBlogPost
         /// <param name="context"></param>
         /// <returns></returns>
         /// 
-        private static void CreateItem()
+        private static void CreateItem(string author, string postName, string content)
         {
             var request = new PutItemRequest
             {
@@ -32,21 +35,22 @@ namespace Blog_AddZHPBlogPost
                 Item = new Dictionary<string, AttributeValue>()
             {
                 { "blog_name-date", new AttributeValue {
-                      N = "1000"
+                      S = blogPrefix + date
                   }},
                 { "author-post_name", new AttributeValue {
-                      S = "Book 201 Title"
+                      S = author + "-" + postName
                   }},
                 { "content", new AttributeValue {
-                      S = "11-11-11-11"
+                      S = content
                   }}
             }
             };
             client.PutItem(request);
         }
-        public string FunctionHandler(string input, ILambdaContext context)
+        public string FunctionHandler(object input, ILambdaContext context)
         {
-            return input?.ToUpper();
+            CreateItem(input["author"], input["postName"], input["content"]);
+            return "success";
         }
     }
 }

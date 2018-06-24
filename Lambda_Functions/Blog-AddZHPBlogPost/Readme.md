@@ -5,12 +5,12 @@ This solution consists of 2 projects:
 and
 * Blog-AddZHPBlogPost.Tests
 
-##Blog-AddZHPBlogPost
+## Blog-AddZHPBlogPost
 Blog-AddZHPBlogPost consists of:
 * Function.cs - class file containing a class with a single function handler method
 * aws-lambda-tools-defaults.json - default argument settings for use with Visual Studio and command line deployment tools for AWS
 
-##Blog-AddZHPBlogPost.Tests
+## Blog-AddZHPBlogPost.Tests
 Blog-AddZHPBlogPost.Tests consists of:
 * FunctionTest.cs - class file containing a class with a single function handler method
 
