@@ -2,18 +2,86 @@
 <html>
 <head>
     <title>ZHP</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:700" rel="stylesheet"> 
+    <link href="CSS/zhp.css" type="text/css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="JS/zhp.js"></script>
 </head>
-<body>
+<body onload="ZHPSetup()">
     <nav>
         <ul>
-            <li><a href="index.html">Index</a></li>
-            <li><a href="troops.html">Scout Troops</a></li>
-            <li><a href="calendar.html">Calendar</a></li>
-            <li><a href="contact.html">Contact</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="signin.html">SignIn</a></li>
+            <li><a href="index.html">Index          </a></li>
+            <li><a href="troops.html">Scout Troops  </a></li>
+            <li><a href="calendar.html">Calendar    </a></li>
+            <li><a href="contact.html">Contact      </a></li>
+            <li><a href="blog.html">Blog            </a></li>
+            <li><a href="signin.html">SignIn        </a></li>
         </ul>
     </nav>
     ZHP!
+    <div class="high-saturation-green">
+        <ul class="menu">
+            <li>
+                <a>Bang</a>
+                <ul>
+                    <li><a href="index.html">Index          </a></li>
+                    <li><a href="troops.html">Scout Troops  </a></li>
+                    <li><a href="calendar.html">Calendar    </a></li>
+                    <li><a href="contact.html">Contact      </a></li>
+                    <li><a href="blog.html">Blog            </a></li>
+                    <li><a href="signin.html">SignIn        </a></li>
+                </ul>
+            </li>
+            <h3>Bang</h3>
+            <li><ul>
+                    <li><a href="index.html">Index          </a></li>
+                    <li><a href="troops.html">Scout Troops  </a></li>
+                    <li><a href="calendar.html">Calendar    </a></li>
+                    <li><a href="contact.html">Contact      </a></li>
+                    <li><a href="blog.html">Blog            </a></li>
+                    <li><a href="signin.html">SignIn        </a></li>
+            </ul></li>
+            <h3>Bang</h3>
+            <li><ul>
+                    <li><a href="index.html">Index          </a></li>
+                    <li><a href="troops.html">Scout Troops  </a></li>
+                    <li><a href="calendar.html">Calendar    </a></li>
+                    <li><a href="contact.html">Contact      </a></li>
+                    <li><a href="blog.html">Blog            </a></li>
+                    <li><a href="signin.html">SignIn        </a></li>
+            </ul></li>
+        </ul>
+    </div><!--Close High Saturation Footer Div-->
+    <div class="low-saturation-green">
+        <div id="donate-text">
+            To donate, please call us at 
+            <br><br>
+            The Polish Scouting Organization is a nonprofit 501(c)(3) public charity (tax ID# ).
+        </div>
+        <div id="support-forms">
+            <div id="support-form-donate">
+                <span>Donate:</span>
+                <form></form>
+                    <input id="donate-text-field" value="$"type="text">
+                    <input id="donate-submit" value="SUBMIT" type="submit">
+                </form>
+                <div style="clear: both"></div>
+            </div>
+            <div id="support-form-mailing-list"><span>Join Mailing List:</span>
+                <form>
+                    <input id="mailing-list-submit" value="Sign Up" type="submit">
+                </form>
+            </div>
+        </div><!--Close Support Forms Div-->
+        <ul id="social-badge-list" style="clear: both;">
+            <li> <i class="fa fa-instagram">    </i> </li>
+            <li> <i class="fa fa-facebook">     </i> </li>
+            <li> <i class="fa fa-youtube-play"> </i> </li>
+            <li> <i class="fa fa-linkedin">     </i> </li>
+            <li> <i class="fa fa-twitter">      </i> </li>
+        </ul><!--Close Social Badge List-->
+        <img id="footer-logo" class="centered" src="img/logo.png" alt="ZHP"/>
+        <p id="footer-copyright">Polish Scouting Organization, Inc. All Rights Reserved</p>
+    </div><!--Close Low Saturation Footer Div-->
 </body>
 </html>
